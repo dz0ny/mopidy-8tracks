@@ -1,10 +1,11 @@
 from __future__ import unicode_literals
 
 import unittest
+
 from mopidy_eight_tracks import EightTracksExtension
 
-class ExtensionTest(unittest.TestCase):
 
+class ExtensionTest(unittest.TestCase):
     def test_get_default_config(self):
         ext = EightTracksExtension()
 

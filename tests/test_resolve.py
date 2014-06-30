@@ -3,7 +3,6 @@ from __future__ import unicode_literals
 import unittest
 
 from mopidy.models import Track, Album
-
 from mopidy_eight_tracks import resolve_playlist, resolve_track
 import httpretty
 import os
@@ -36,7 +35,6 @@ class ResolveTest(unittest.TestCase):
         self.assertEqual(31, len(t))
         self.assertEqual('Freshly Chilled', t[0].name)
 
-
     @httpretty.activate
     def test_resolve_track(self):
         patch('http://8tracks.com/sets/964179667/play.json?mix_id=2543880',
@@ -56,5 +54,3 @@ class ResolveTest(unittest.TestCase):
         )
         t = resolve_track(track)
         self.assertIsInstance(t, Track)
-
-
