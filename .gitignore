@@ -1,0 +1,9 @@
+*.egg-info
+*.pyc
+*.swp
+.coverage
+.tox/
+.idea/
+MANIFEST
+build/
+dist/

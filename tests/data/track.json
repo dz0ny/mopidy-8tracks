@@ -1,0 +1,29 @@
+{
+    "set": {
+        "at_beginning": true,
+        "at_end": false,
+        "at_last_track": false,
+        "skip_allowed": true,
+        "track": {
+            "buy_link": "http://soundcloud.com/g-eazy/stay-high-feat-mod-sun",
+            "buy_icon": "http://8tracks.com/assets/buy/soundcloud.png",
+            "buy_text": "SoundCloud",
+            "track_file_stream_url": "http://api.soundcloud.com/tracks/59962784/stream?client_id=3904229f42df3999df223f6ebf39a8fe",
+            "stream_source": "ext_sc",
+            "user_id": 1,
+            "full_length": true,
+            "faved_by_current_user": false,
+            "id": 11309287,
+            "name": "Stay High (feat. Mod Sun)",
+            "performer": "G-Eazy",
+            "release_name": "Uploaded by G-Eazy",
+            "url": "http://8tracks.com/tracks/11309287",
+            "year": null,
+            "uid": "sc-59962784"
+        }
+    },
+    "status": "200 OK",
+    "errors": null,
+    "notices": "",
+    "api_version": 3
+}

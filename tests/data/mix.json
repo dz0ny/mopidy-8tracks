@@ -1,0 +1,82 @@
+{
+    "status": "200 OK",
+    "errors": null,
+    "mix": {
+        "certification": null,
+        "web_path": "/cmaunder/freshly-chilled",
+        "liked_by_current_user": false,
+        "nsfw": false,
+        "artists": [
+            "BlackLightDinnerParty",
+            "ClamsCasino",
+            "Chase&Status"
+        ],
+        "duration": 6961,
+        "id": 2543880,
+        "genres": [
+            "indie",
+            "hiphop",
+            "electronic",
+            "pop",
+            "rap"
+        ],
+        "user_id": 6164935,
+        "description_html": "<p>newtracksforyourears</p>",
+        "tracks_count": 31,
+        "description": "newtracksforyourears",
+        "tag_list_cache": "chilled, underground, hypem, newmusic",
+        "plays_count": 193,
+        "user": {
+            "website": null,
+            "bio": null,
+            "followed_by_current_user": false,
+            "designation": null,
+            "city": null,
+            "admin": null,
+            "country": null,
+            "bio_html": null,
+            "web_path": "/cmaunder",
+            "zip_code": null,
+            "moderator": false,
+            "state": null,
+            "avatar_urls": {
+                "max200": "http: //8tracks.imgix.net/avatars/006/164/935/33447.original.?fm=jpg&q=65&sharp=15&vib=10&w=200&h=200&fit=max",
+                "sq100": "http: //8tracks.imgix.net/avatars/006/164/935/33447.original.?fm=jpg&q=65&sharp=15&vib=10&w=100&h=100&fit=crop",
+                "sq56": "http: //8tracks.imgix.net/avatars/006/164/935/33447.original.?fm=jpg&q=65&sharp=15&vib=10&w=56&h=56&fit=crop",
+                "max250w": "http: //8tracks.imgix.net/avatars/006/164/935/33447.original.?fm=jpg&q=65&sharp=15&vib=10&w=250&h=250&fit=max",
+                "sq72": "http: //8tracks.imgix.net/avatars/006/164/935/33447.original.?fm=jpg&q=65&sharp=15&vib=10&w=72&h=72&fit=crop",
+                "original": "http: //8tracks.imgix.net/avatars/006/164/935/33447.original.?fm=jpg&q=65&sharp=15&vib=10&"
+            },
+            "location": "",
+            "member_since": "Jul2013",
+            "neighborhood": null,
+            "login": "cmaunder",
+            "path": "/users/6164935",
+            "id": 6164935,
+            "website_trusted": null,
+            "college_name": null
+        },
+        "path": "/mixes/2543880",
+        "likes_count": 13,
+        "name": "Freshly Chilled",
+        "first_published_at_timestamp": 1380687129,
+        "cover_urls": {
+            "sq133": "http: //8tracks.imgix.net/i/000/764/206/JK_WOS_CU_8TRACK01-9273.jpg?fm=jpg&q=65&w=133&h=133&fit=crop",
+            "sq56": "http: //8tracks.imgix.net/i/000/764/206/JK_WOS_CU_8TRACK01-9273.jpg?fm=jpg&q=65&w=56&h=56&fit=crop",
+            "max200": "http: //8tracks.imgix.net/i/000/764/206/JK_WOS_CU_8TRACK01-9273.jpg?fm=jpg&q=65&w=200&h=200&fit=max",
+            "max133w": "http: //8tracks.imgix.net/i/000/764/206/JK_WOS_CU_8TRACK01-9273.jpg?fm=jpg&q=65&w=133&fit=max",
+            "original_imgix_url": "http: //8tracks.imgix.net/i/000/764/206/JK_WOS_CU_8TRACK01-9273.jpg?q=65&sharp=15&vib=10&fm=jpg&fit=crop",
+            "sq500": "http: //8tracks.imgix.net/i/000/764/206/JK_WOS_CU_8TRACK01-9273.jpg?fm=jpg&q=65&w=500&h=500&fit=crop",
+            "sq100": "http: //8tracks.imgix.net/i/000/764/206/JK_WOS_CU_8TRACK01-9273.jpg?fm=jpg&q=65&w=100&h=100&fit=crop",
+            "sq250": "http: //8tracks.imgix.net/i/000/764/206/JK_WOS_CU_8TRACK01-9273.jpg?fm=jpg&q=65&w=250&h=250&fit=crop",
+            "animated": false,
+            "max1024": "http: //8tracks.imgix.net/i/000/764/206/JK_WOS_CU_8TRACK01-9273.jpg?fm=jpg&q=65&w=1024&h=1024&fit=max",
+            "original": "http: //8tracks.imgix.net/i/000/764/206/JK_WOS_CU_8TRACK01-9273.jpg?q=65&sharp=15&vib=10&fm=jpg&fit=crop"
+        },
+        "published": true,
+        "first_published_at": "2013-10-02T04: 12: 09Z"
+    },
+    "notices": null,
+    "logged_in": false,
+    "api_version": 3
+}
